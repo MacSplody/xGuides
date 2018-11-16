@@ -42,16 +42,12 @@ or
 5. Remove the record `000B3434`.![image](pics/TFS-000B3434.png)
 6. Remove the record `000C0291`.![image](pics/TFS-000C0291.png)
 7. Open cell record `000AD5A1`.![image](pics/TFS-000AD5A1-Rec.png)
-- Right click the empty field of the `XCCM` subrecord and from the context menu select `Add`.
-  ![image](pics/TFS-000AD5A1-ADD.png)
-- You should now see a `Null` formid value in the field of the `XCCM` subrecord.  
-  ![image](pics/TFS-000AD5A1-Null.png)
-- Right click the NULL value and select edit from the context menu.
-  ![image](pics/TFS-000AD5A1-EditSelect.png)
-- Replace the `Null` value with `0002A72D` and select ok.
-  ![image](pics/TFS-000AD5A1-Edit.png)
-- You should now see the value `WeatherPineForest` in the field of the `XCCM` subrecord of Faction Teleport Spells.
-  ![image](pics/TFS-000AD5A1-FIN.png)
+  - Right click the empty field of the `XCCM` subrecord and from the context menu select `Add`.![image](pics/TFS-000AD5A1-ADD.png)
+  - You should now see a `Null` formid value in the field of the `XCCM` subrecord.![image](pics/TFS-000AD5A1-Null.png)
+  - Right click the NULL value and select edit from the context menu.![image](pics/TFS-000AD5A1-EditSelect.png)
+  - Replace the `Null` value with `0002A72D` and select ok.![image](pics/TFS-000AD5A1-Edit.png)
+  - You should now see the value `WeatherPineForest` in the field of the `XCCM` subrecord of Faction Teleport Spells.![image](pics/TFS-000AD5A1-FIN.png)
+8. `00016BCF` Remove `XEZN` subrecord referring to RiftenRatwayZone `[ECZN:0009FBB9]`![image](pics/TFS-00016BCF.png)
 - The Wild edits are now corrected, you can save the changes to the cleaned plugin with `ctrl+s` or when prompted before exiting SSEEdit.
 
 ---
