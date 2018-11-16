@@ -1,2 +1,1 @@
-# guides
-guides for cleaning wild edits
+# SSEEdit Guides
