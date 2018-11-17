@@ -6,7 +6,9 @@
 2. [Teleport - Faction Spells](#-teleport---faction-spells-)
 3. [Teleport - Towns and Villages](#-teleport---towns-and-villages-)
 4. [Moon & Star](#-moon-and-star-)
-5. [Distinct Interiors](#-distinct-interiors-)
+
+### Deleted navmesh
+1. [Distinct Interiors](#-distinct-interiors-)
 
 ---
 
