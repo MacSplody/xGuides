@@ -90,10 +90,10 @@ The Wild edits are now corrected, you can save the changes to the cleaned plugin
 3. Open `cell` record `00009B37` and scroll down to the subrecord `XCWT - Water`.Drag & Drop the value in the `XCWT - Water` subrecord from `Update.esm` into `MoonAndStar_MAS.esp`![image](pics/MAS-00009B37-XCWT.png)![image](pics/MAS-00009B37-XCWT-After.png)
 
 4. The following records also need the `XCWT - Water` subrecord value copied from `Update.esm` into `MoonAndStar_MAS.esp`.
-   - `00009B37`, `00009B58`, `00009B9A`, `00009B9B`, `00009BBB`
-   - `00009B54`, `00009B55`, `00009B56`, `00009B57`, `00009B75`
-   - `00009B76`, `00009B77`, `00009B78`, `00009B97`, `00009B98`
-   - `00009B99`, `00009BB8`, `00009BB9`, `00009BBA`.
+   - `00009B54`, `00009B55`, `00009B56`, `00009B57`, `00009B58`,
+   - `00009B75`, `00009B76`, `00009B77`, `00009B78`,
+   - `00009B97`, `00009B98`, `00009B99`, `00009B9A`, `00009B9B`,
+   - `00009BB8`, `00009BB9`, `00009BBA`, `00009BBB`,
 
 5. `00000D74` Drag and drop the `XCLR - Regions` subrecord from `Dawnguard.esm` on to the corresponding empty subrecord in `MoonAndStar_MAS.esp`.![image](pics/MAS-00000D74-before.png)![image](pics/MAS-00000D74-after.png)
 
