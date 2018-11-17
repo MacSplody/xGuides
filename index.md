@@ -7,7 +7,7 @@
 3. [Teleport - Towns and Villages](#-teleport---towns-and-villages-)
 4. [Moon & Star](#-moon-and-star-)
 
-### Deleted navmesh
+### Deleted navmeshes
 1. [Distinct Interiors](#-distinct-interiors-)
 
 ---
@@ -113,4 +113,4 @@ or
 - Remove the deleted record `000CB4F3` from `Distinct Interiors.esp`
   ![image](pics/DIAIO-000CB4F3.png)
 
-The Wild edits are now corrected, you can save the changes to the cleaned plugin with `ctrl+s` or when prompted before exiting SSEEdit.
+The Deleted navmeshes are now corrected, you can save the changes to the cleaned plugin with `ctrl+s` or when prompted before exiting SSEEdit.
