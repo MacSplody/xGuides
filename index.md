@@ -80,7 +80,7 @@ The Wild edits are now corrected, you can save the changes to the cleaned plugin
 - Open SSEEDIT.
 - Right click the module selection window.
 - `Select none` from the context menu.![image](pics/MAS-Select-none.png)
-- Then select only the `DLC` & ``MoonAndStar_MAS.esp`.![image](pics/MAS-Module-Selection.png)
+- Then select only the `DLC` & `MoonAndStar_MAS.esp`.![image](pics/MAS-Module-Selection.png)
 - In the left panel, right click `MoonAndStar_MAS.esp`.
 - Select `Add masters` from the context menu.![image](pics/MAS-addmaster.png)
 - Tick `Heartfires.esm` and click okay.![image](pics/MAS-addmasters-selection.png)
