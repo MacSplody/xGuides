@@ -86,12 +86,8 @@ The Wild edits are now corrected, you can save the changes to the cleaned plugin
 - Tick `Heartfires.esm` and click okay.![image](pics/MAS-addmasters-selection.png)
 
 1. Open record `000166A9` and scroll down to the subrecord `XNDP - Navigation Door Link`.![image](pics/MAS-000166A9-before-drag-navm.png)
-2. Drag & Drop the values in subrecord `XNDP - Navigation Door Link`![image](pics/MAS-000166A9-before-drag-navm.png) 
-  - from `Heartfires.esm` into `MoonAndStar_MAS.esp`.
-  ![image](pics/MAS-000166A9-after-drop-TMT.png)
-
-3. Open `cell` record `00009B37` and scroll down to the subrecord `XCWT - Water`.![image](pics/MAS-00009B37-XCWT.png)
-  - Drag & Drop the value in the `XCWT - Water` subrecord from `Update.esm` into `MoonAndStar_MAS.esp` `![image](pics/MAS-00009B37-XCWT-After.png)
+2. Drag & Drop the values in subrecord `XNDP - Navigation Door Link` from `Heartfires.esm` into `MoonAndStar_MAS.esp`.![image](pics/MAS-000166A9-before-drag-navm.png)![image](pics/MAS-000166A9-after-drop-TMT.png)
+3. Open `cell` record `00009B37` and scroll down to the subrecord `XCWT - Water`.Drag & Drop the value in the `XCWT - Water` subrecord from `Update.esm` into `MoonAndStar_MAS.esp`![image](pics/MAS-00009B37-XCWT.png)![image](pics/MAS-00009B37-XCWT-After.png)
 
 4. The following records also need the `XCWT - Water` subrecord value copied from `Update.esm` into `MoonAndStar_MAS.esp`.
    - `00009B37`, `00009B58`, `00009B9A`, `00009B9B`, `00009BBB`
@@ -99,7 +95,7 @@ The Wild edits are now corrected, you can save the changes to the cleaned plugin
    - `00009B76`, `00009B77`, `00009B78`, `00009B97`, `00009B98`
    - `00009B99`, `00009BB8`, `00009BB9`, `00009BBA`.
 
-1. `00000D74` Drag and drop the `XCLR - Regions` subrecord from `Dawnguard.esm` on to the corresponding empty subrecord in `MoonAndStar_MAS.esp`.![image](pics/MAS-00000D74-before.png)![image](pics/MAS-00000D74-after.png)
+5. `00000D74` Drag and drop the `XCLR - Regions` subrecord from `Dawnguard.esm` on to the corresponding empty subrecord in `MoonAndStar_MAS.esp`.![image](pics/MAS-00000D74-before.png)![image](pics/MAS-00000D74-after.png)
 
 The Wild edits are now corrected, you can save the changes to the cleaned plugin with `ctrl+s` or when prompted before exiting SSEEdit.
 
