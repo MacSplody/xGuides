@@ -15,6 +15,7 @@
 1. [RS Children Overhaul](#-rs-children-overhaul-)
 2. [Axe's RS Children](#-axes-rs-children-)
 3. [Killable Children](#-killable-children-)
+4. [Simple Children](#-simple-children-)
 
 ---
 
@@ -175,5 +176,24 @@ The unresolved reference is now corrected, you can save the changes to the clean
   ![image](pics/KC-AA-02.png)
 
   ![image](pics/KC-AA-03.png)
+
+The unresolved reference is now corrected, you can save the changes to the cleaned plugin with `ctrl+s` or when prompted before exiting SSEEdit.
+
+---
+
+### [ Simple Children ](https://www.nexusmods.com/skyrimspecialedition/mods/22789/)
+
+`FacegenForKids.esp`
+
+#### Edit the following record(s) with SSEEdit
+- Remove the unresolved reference in record `00014132` AventusAretino Packages from `FacegenForKids.esp`
+
+  ![image](pics/SCFFK-00.png)
+
+  ![image](pics/SCFFK-01.png)
+
+  ![image](pics/SCFFK-02.png)
+
+  ![image](pics/SCFFK-03.png)
 
 The unresolved reference is now corrected, you can save the changes to the cleaned plugin with `ctrl+s` or when prompted before exiting SSEEdit.
