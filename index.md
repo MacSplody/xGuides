@@ -10,6 +10,10 @@
 ### Deleted navmeshes
 1. [Distinct Interiors](#-distinct-interiors-)
 
+### Unresolved Reference
+##### USSEP Aventus's Aretino Package
+1. [RS Children Overhaul](#-rs-children-overhaul-)
+
 ---
 
 ### [ Teleport - City Spells ](https://www.nexusmods.com/skyrimspecialedition/mods/7015/)
@@ -114,3 +118,22 @@ or
   ![image](pics/DIAIO-000CB4F3.png)
 
 The Deleted navmeshes are now corrected, you can save the changes to the cleaned plugin with `ctrl+s` or when prompted before exiting SSEEdit.
+
+---
+
+### [ RS Children Overhaul ](https://www.nexusmods.com/skyrimspecialedition/mods/2650/)
+
+`RSChildren.esp`
+
+#### Edit the following record(s) with SSEEdit
+- Remove the unresolved reference in record `00014132` AventusAretino Packages from `RSChildren.esp`
+
+  ![image](pics/RSC-AA-00.png)
+
+  ![image](pics/RSC-AA-01.png)
+
+  ![image](pics/RSC-AA-02.png)
+
+  ![image](pics/RSC-AA-03.png)
+
+The unresolved reference is now corrected, you can save the changes to the cleaned plugin with `ctrl+s` or when prompted before exiting SSEEdit.
