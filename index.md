@@ -16,7 +16,8 @@
 2. [Axe's RS Children](#-axes-rs-children-)
 3. [Killable Children](#-killable-children-)
 4. [Simple Children](#-simple-children-)
-4. [TK Children](#-tk-children-)
+5. [TK Children](#-tk-children-)
+6. [Children](#-children-)
 
 ---
 
@@ -215,5 +216,24 @@ The unresolved reference is now corrected, you can save the changes to the clean
   ![image](pics/TKC-02.png)
 
   ![image](pics/TKC-03.png)
+
+The unresolved reference is now corrected, you can save the changes to the cleaned plugin with `ctrl+s` or when prompted before exiting SSEEdit.
+
+---
+
+### [ Children ](https://www.nexusmods.com/skyrimspecialedition/mods/2822/)
+
+`Children.esp`
+
+#### Edit the following record(s) with SSEEdit
+- Remove the unresolved reference in record `00014132` AventusAretino Packages from `Children.esp`
+
+  ![image](pics/CHI-00.png)
+
+  ![image](pics/CHI-01.png)
+
+  ![image](pics/CHI-02.png)
+
+  ![image](pics/CHI-03.png)
 
 The unresolved reference is now corrected, you can save the changes to the cleaned plugin with `ctrl+s` or when prompted before exiting SSEEdit.
