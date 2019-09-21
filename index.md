@@ -11,7 +11,7 @@
 1. [Distinct Interiors](#-distinct-interiors-)
 
 ### Unresolved Reference
-##### USSEP Aventus's Aretino Package
+##### USSEP Aventus Aretino Package
 1. [RS Children Overhaul](#-rs-children-overhaul-)
 
 ---
