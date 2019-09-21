@@ -13,7 +13,7 @@
 ### Unresolved Reference
 ##### USSEP Aventus Aretino Package
 1. [RS Children Overhaul](#-rs-children-overhaul-)
-2. [Axe's RS Children](#-axe's-rs-children-)
+2. [Axe's RS Children](#-axes-rs-children-)
 
 ---
 
