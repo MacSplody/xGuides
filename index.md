@@ -14,6 +14,7 @@
 ##### USSEP Aventus Aretino Package
 1. [RS Children Overhaul](#-rs-children-overhaul-)
 2. [Axe's RS Children](#-axes-rs-children-)
+3. [Killable Children](#-killable-children-)
 
 ---
 
@@ -155,5 +156,24 @@ The unresolved reference is now corrected, you can save the changes to the clean
   ![image](pics/AXERSC-AA-02.png)
 
   ![image](pics/AXERSC-AA-03.png)
+
+The unresolved reference is now corrected, you can save the changes to the cleaned plugin with `ctrl+s` or when prompted before exiting SSEEdit.
+
+---
+
+### [ Killable Children ](https://www.nexusmods.com/skyrimspecialedition/mods/1108/)
+
+`Killable Children.esp`
+
+#### Edit the following record(s) with SSEEdit
+- Remove the unresolved reference in record `00014132` AventusAretino Packages from `Killable Children.esp`
+
+  ![image](pics/KC-AA-00.png)
+
+  ![image](pics/KC-AA-01.png)
+
+  ![image](pics/KC-AA-02.png)
+
+  ![image](pics/KC-AA-03.png)
 
 The unresolved reference is now corrected, you can save the changes to the cleaned plugin with `ctrl+s` or when prompted before exiting SSEEdit.
