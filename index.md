@@ -121,103 +121,103 @@ Remove the following records:
 
    _Armor_
 
-   `0003B5AB` SkinDragonPriest
-   `000B799A` SkinSkeleton
-   `0010CFE4` ClothesMonkRobesColorBrownHooded
-   `0010CFEA` ClothesMonkRobesColorGreyHooded
-   `0010CFEB` ClothesMonkRobesColorRedHooded
-   `0010CFEC` ClothesMonkRobesColorGreenHooded
+   - `0003B5AB` SkinDragonPriest
+   - `000B799A` SkinSkeleton
+   - `0010CFE4` ClothesMonkRobesColorBrownHooded
+   - `0010CFEA` ClothesMonkRobesColorGreyHooded
+   - `0010CFEB` ClothesMonkRobesColorRedHooded
+   - `0010CFEC` ClothesMonkRobesColorGreenHooded
 
   _Magic Effect_
 
-   `0001CEAA` SummonFlameAtronach
-   `0001CEAB` SummonFrostAtronach
-   `0001CEAC` SummonStormAtronach
-   `000640B4` SummonFamiliar
-   `0006A154` MGRSummonArnielEffect
-   `0007E5D2` SummonFlameThrall
-   `0007E5D3` SummonFrostThrall
-   `0007E5D4` SummonStormThrall
-   `0007E8E0` ReanimateThrallFFAimed
-   `000A88C8` dunRannveigSummonGhost
-   `000CDECF` SummonFlameThrallPotent
-   `000CDED0` SummonFrostThrallPotent
-   `000CDED1` SummonStormThrallPotent
-   `0010DDED` SummonDremoraLord
-   `0010EE48` SummonFrostAtronachNPC
-   `0010EE49` SummonStormAtronachNPC
-   `0010FC12` SummonDragonPriest
-   `01000840` EnchSummonFlameAtronach
-   `01000841` EnchSummonFrostAtronach
-   `01000842` EnchSummonStormAtronach
-   `01000843` EnchSummonFlameThrall
-   `01000844` EnchSummonFrostThrall
-   `01000845` EnchSummonStormThrall
-   `020045B5` SummonWrathman
-   `020045BB` SummonMistman
-   `020045BC` SummonBoneman
-   `0200C601` DLC01SummonSoulHorseEffect
-   `0200E7D7` DLC1nVampireBloodyGripCloakEffect
+   - `0001CEAA` SummonFlameAtronach
+   - `0001CEAB` SummonFrostAtronach
+   - `0001CEAC` SummonStormAtronach
+   - `000640B4` SummonFamiliar
+   - `0006A154` MGRSummonArnielEffect
+   - `0007E5D2` SummonFlameThrall
+   - `0007E5D3` SummonFrostThrall
+   - `0007E5D4` SummonStormThrall
+   - `0007E8E0` ReanimateThrallFFAimed
+   - `000A88C8` dunRannveigSummonGhost
+   - `000CDECF` SummonFlameThrallPotent
+   - `000CDED0` SummonFrostThrallPotent
+   - `000CDED1` SummonStormThrallPotent
+   - `0010DDED` SummonDremoraLord
+   - `0010EE48` SummonFrostAtronachNPC
+   - `0010EE49` SummonStormAtronachNPC
+   - `0010FC12` SummonDragonPriest
+   - `01000840` EnchSummonFlameAtronach
+   - `01000841` EnchSummonFrostAtronach
+   - `01000842` EnchSummonStormAtronach
+   - `01000843` EnchSummonFlameThrall
+   - `01000844` EnchSummonFrostThrall
+   - `01000845` EnchSummonStormThrall
+   - `020045B5` SummonWrathman
+   - `020045BB` SummonMistman
+   - `020045BC` SummonBoneman
+   - `0200C601` DLC01SummonSoulHorseEffect
+   - `0200E7D7` DLC1nVampireBloodyGripCloakEffect
 
   _Non-Player Character (Actor)_
   
-   `0001E7CA` LvlWarlockNecromancer
-   `0002D1DE` EncSkeleton01Melee1H
-   `0002D1E0` EncSkeleton01Melee2H
-   `0002D1FC` EncSkeleton01Missile
-   `0002D1FD` EncSkeleton01Melee1Hshield
-   `0003B547` EncDraugr01Template
-   `0003BE1E` EncDraugr01TemplateMissile
-   `000524E5` EncSkeleton01AmbushMelee1H
-   `000548FE` EncWarlock01TemplateNecro
-   `0005B752` EncDraugr01Template2H
-   `000C3B1C` TreasCorpseSkeleton
-   `000DA06B` EncSkeleton01AmbushMelee1HShield
-   `02010E9B` DLC1lvlDragonIceLake
-   `02011CD2` AudioTemplateVampireLord
-   `020145A5` DLC1VQ02VampLordLoadDummy
-   `0201A93D` DLC1HarkonCombat
-   `0301E290` AudioTemplateWerebear
-   `0303D588` AudioTemplateRiekling
-   `0303D589` AudioTemplateRieklingQuiet
+   - `0001E7CA` LvlWarlockNecromancer
+   - `0002D1DE` EncSkeleton01Melee1H
+   - `0002D1E0` EncSkeleton01Melee2H
+   - `0002D1FC` EncSkeleton01Missile
+   - `0002D1FD` EncSkeleton01Melee1Hshield
+   - `0003B547` EncDraugr01Template
+   - `0003BE1E` EncDraugr01TemplateMissile
+   - `000524E5` EncSkeleton01AmbushMelee1H
+   - `000548FE` EncWarlock01TemplateNecro
+   - `0005B752` EncDraugr01Template2H
+   - `000C3B1C` TreasCorpseSkeleton
+   - `000DA06B` EncSkeleton01AmbushMelee1HShield
+   - `02010E9B` DLC1lvlDragonIceLake
+   - `02011CD2` AudioTemplateVampireLord
+   - `020145A5` DLC1VQ02VampLordLoadDummy
+   - `0201A93D` DLC1HarkonCombat
+   - `0301E290` AudioTemplateWerebear
+   - `0303D588` AudioTemplateRiekling
+   - `0303D589` AudioTemplateRieklingQuiet
 
   _Perk_
 
-   `00106092` doomRitualPerk
+   - `00106092` doomRitualPerk
 
   _Spell_
 
-   `000204C4` ConjureFrostAtronach
-   `000204C5` ConjureStormAtronach
-   `000211EF` DetectDead
-   `000640B6` ConjureFamiliar
-   `0007E8DF` DeadThrall
-   `0007E8E4` Blizzard
-   `00096D94` Revenant
-   `0009BCCA` AbDragonPriest
-   `000A1992` IceStormLeftHand
-   `000ABDF3` ConjureFrostAtronachLeftHand
-   `000BB967` ConjureFlameAtronachLeftHand
-   `000BB968` ConjureStormAtronachLeftHand
-   `000C969C` IceSpikeRightHand
-   `000C969E` RaiseZombieLeftHand
-   `000E1529` dunReanimateSelf
-   `000E7329` doomRitualAbility
-   `00100E75` ConjureFamiliarRightHand
-   `00100E76` ConjureFlameAtronachRightHand
-   `00100E77` ConjureFrostAtronachRightHand
-   `00100E78` ConjureStormAtronachRightHand
-   `0010DDEC` ConjureDremoraLord
-   `0010FC16` ConjureDragonPriest
-   `020038B7` DLC1VampiresGrip
-   `020045B3` DLC1ConjureWrathman
-   `020045B8` DLC1ConjureMistman
-   `020045BA` DLC1ConjureBoneman
-   `02016909` DLC1ConjureGargoyleLeftHand
-   `0301CDF6` DLC2ConjureAshSpawn
-   `03029F12` DLC2ConjureBardInstruments
-   `03033C66` DLC2ConjureSeeker
-   `0303D473` DLC2ConjureAshGuardianLeftHand
+   - `000204C4` ConjureFrostAtronach
+   - `000204C5` ConjureStormAtronach
+   - `000211EF` DetectDead
+   - `000640B6` ConjureFamiliar
+   - `0007E8DF` DeadThrall
+   - `0007E8E4` Blizzard
+   - `00096D94` Revenant
+   - `0009BCCA` AbDragonPriest
+   - `000A1992` IceStormLeftHand
+   - `000ABDF3` ConjureFrostAtronachLeftHand
+   - `000BB967` ConjureFlameAtronachLeftHand
+   - `000BB968` ConjureStormAtronachLeftHand
+   - `000C969C` IceSpikeRightHand
+   - `000C969E` RaiseZombieLeftHand
+   - `000E1529` dunReanimateSelf
+   - `000E7329` doomRitualAbility
+   - `00100E75` ConjureFamiliarRightHand
+   - `00100E76` ConjureFlameAtronachRightHand
+   - `00100E77` ConjureFrostAtronachRightHand
+   - `00100E78` ConjureStormAtronachRightHand
+   - `0010DDEC` ConjureDremoraLord
+   - `0010FC16` ConjureDragonPriest
+   - `020038B7` DLC1VampiresGrip
+   - `020045B3` DLC1ConjureWrathman
+   - `020045B8` DLC1ConjureMistman
+   - `020045BA` DLC1ConjureBoneman
+   - `02016909` DLC1ConjureGargoyleLeftHand
+   - `0301CDF6` DLC2ConjureAshSpawn
+   - `03029F12` DLC2ConjureBardInstruments
+   - `03033C66` DLC2ConjureSeeker
+   - `0303D473` DLC2ConjureAshGuardianLeftHand
 
 Edit the following records:
 
