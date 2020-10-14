@@ -127,6 +127,11 @@ Remove the following records:
    - `0010CFEA` ClothesMonkRobesColorGreyHooded
    - `0010CFEB` ClothesMonkRobesColorRedHooded
    - `0010CFEC` ClothesMonkRobesColorGreenHooded
+   
+   ![image](pics/Undeath/Armor-Overview-Before.png)
+   ![image](pics/Undeath/Armor-Overview-Remove.png)
+   ![image](pics/Undeath/Armor-Overview-Remove-Yes.png)
+   ![image](pics/Undeath/Armor-Overview-After.png)
 
   _Magic Effect_
 
@@ -159,8 +164,14 @@ Remove the following records:
    - `0200C601` DLC01SummonSoulHorseEffect
    - `0200E7D7` DLC1nVampireBloodyGripCloakEffect
 
+   ![image](pics/Undeath/Magic-Overview-01-Before.png)
+   ![image](pics/Undeath/Magic-Overview-02-Before.png)
+   ![image](pics/Undeath/Magic-Overview-Remove.png)
+   ![image](pics/Undeath/Magic-Overview-Remove-Yes.png)
+   ![image](pics/Undeath/Magic-Overview-After.png)
+
   _Non-Player Character (Actor)_
-  
+
    - `0001E7CA` LvlWarlockNecromancer
    - `0002D1DE` EncSkeleton01Melee1H
    - `0002D1E0` EncSkeleton01Melee2H
@@ -180,10 +191,20 @@ Remove the following records:
    - `0301E290` AudioTemplateWerebear
    - `0303D588` AudioTemplateRiekling
    - `0303D589` AudioTemplateRieklingQuiet
+   
+   ![image](pics/Undeath/NPCs-Overview-Before.png)
+   ![image](pics/Undeath/NPCs-Overview-Remove.png)
+   ![image](pics/Undeath/NPCs-Overview-Remove-Yes.png)
+   ![image](pics/Undeath/NPCs-Overview-After.png)
 
   _Perk_
 
    - `00106092` doomRitualPerk
+
+   ![image](pics/Undeath/Perk-Overview-Before.png)
+   ![image](pics/Undeath/Perk-Overview-Remove.png)
+   ![image](pics/Undeath/Perk-Overview-Remove-Yes.png)
+   ![image](pics/Undeath/Perk-Overview-After.png)
 
   _Spell_
 
@@ -219,6 +240,12 @@ Remove the following records:
    - `03033C66` DLC2ConjureSeeker
    - `0303D473` DLC2ConjureAshGuardianLeftHand
 
+   ![image](pics/Undeath/Spell-Overview-01-Before.png)
+   ![image](pics/Undeath/Spell-Overview-02-Before.png)
+   ![image](pics/Undeath/Spell-Overview-Remove.png)
+   ![image](pics/Undeath/Spell-Overview-Remove-Yes.png)
+   ![image](pics/Undeath/Spell-Overview-After.png)
+
 Edit the following records:
 
 The `XCWT - Water` subrecord value in `Undeath.esp` must be changed to match the value in `Update.esm`.
@@ -232,7 +259,33 @@ The `XCWT - Water` subrecord value in `Undeath.esp` must be changed to match the
    - `00009B98`
    - `00009BB9` NecroArkayShrineExt01
    - `00009BBA`
+   
+   ![image](pics/Undeath/Filter-Overview-Before.png)
 
+   Right click `Undeath.esp`, and select _Apply Filter (Selected files only)_
+
+   ![image](pics/Undeath/Filter-Overview-Apply.png)
+
+   Apply the checkboxes indicated by the arrows in the following image and then select Filter.
+
+   ![image](pics/Undeath/Filter-Overview-Options.png)
+
+   This will filter to leave only records that are reverting changes.
+   ![image](pics/Undeath/Filter-Overview-After.png)
+
+   To copy a sub-record value, you can drag and drop it from one plugin to another in the right panel.
+   ![image](pics/Undeath/Waterflow-Overview-Before.png)
+   ![image](pics/Undeath/Waterflow-Overview-During.png)
+   ![image](pics/Undeath/Waterflow-Overview-After-first.png)
+
+   ![image](pics/Undeath/Waterflow-Overview-All-First.png)
+
+   To remove a sub-record value, right click it in the right panel and select remove.
+   ![image](pics/Undeath/Waterflow-Remove-Before.png)
+   ![image](pics/Undeath/Waterflow-Remove-During.png)
+   ![image](pics/Undeath/Waterflow-Remove-After.png)
+
+   ![image](pics/Undeath/Waterflow-Overview-After-All.png)
 
 The Wild edits are now corrected, you can save the changes to the cleaned plugin with `ctrl+s` or when prompted before exiting SSEEdit.
 
