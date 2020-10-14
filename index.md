@@ -168,6 +168,9 @@ Remove the following records:
    ![image](pics/Undeath/Magic-Overview-02-Before.png)
    ![image](pics/Undeath/Magic-Overview-Remove.png)
    ![image](pics/Undeath/Magic-Overview-Remove-Yes.png)
+
+   - **Do not remove** `000F52AB` `ReanimateSecondayFFAimed` & `0010EAD9` `ReanimateSecondayTargetActor`.
+
    ![image](pics/Undeath/Magic-Overview-After.png)
 
   _Non-Player Character (Actor)_
