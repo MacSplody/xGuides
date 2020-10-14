@@ -102,10 +102,10 @@ The Wild edits are now corrected, you can save the changes to the cleaned plugin
 3. Open `cell` record `00009B37` and scroll down to the subrecord `XCWT - Water`.Drag & Drop the value in the `XCWT - Water` subrecord from `Update.esm` into `MoonAndStar_MAS.esp`![image](pics/MAS-00009B37-XCWT.png)![image](pics/MAS-00009B37-XCWT-After.png)
 
 4. The following records also need the `XCWT - Water` subrecord value copied from `Update.esm` into `MoonAndStar_MAS.esp`.
-   - `00009B54`, `00009B55`, `00009B56`, `00009B57`, `00009B58`,
-   - `00009B75`, `00009B76`, `00009B77`, `00009B78`,
-   - `00009B97`, `00009B98`, `00009B99`, `00009B9A`, `00009B9B`,
-   - `00009BB8`, `00009BB9`, `00009BBA`, `00009BBB`,
+  - `00009B54`, `00009B55`, `00009B56`, `00009B57`, `00009B58`,
+  - `00009B75`, `00009B76`, `00009B77`, `00009B78`,
+  - `00009B97`, `00009B98`, `00009B99`, `00009B9A`, `00009B9B`,
+  - `00009BB8`, `00009BB9`, `00009BBA`, `00009BBB`,
 
 5. `00000D74` Drag and drop the `XCLR - Regions` subrecord from `Dawnguard.esm` on to the corresponding empty subrecord in `MoonAndStar_MAS.esp`.![image](pics/MAS-00000D74-before.png)![image](pics/MAS-00000D74-after.png)
 
@@ -117,16 +117,16 @@ The Wild edits are now corrected, you can save the changes to the cleaned plugin
 
 `Undeath.esp`
 
-Remove the following records:
+#### Remove the following records
 
    _Armor_
 
-   - `0003B5AB` SkinDragonPriest
-   - `000B799A` SkinSkeleton
-   - `0010CFE4` ClothesMonkRobesColorBrownHooded
-   - `0010CFEA` ClothesMonkRobesColorGreyHooded
-   - `0010CFEB` ClothesMonkRobesColorRedHooded
-   - `0010CFEC` ClothesMonkRobesColorGreenHooded
+  - `0003B5AB` SkinDragonPriest
+  - `000B799A` SkinSkeleton
+  - `0010CFE4` ClothesMonkRobesColorBrownHooded
+  - `0010CFEA` ClothesMonkRobesColorGreyHooded
+  - `0010CFEB` ClothesMonkRobesColorRedHooded
+  - `0010CFEC` ClothesMonkRobesColorGreenHooded
    
    ![image](pics/Undeath/Armor-Overview-Before.png)
    ![image](pics/Undeath/Armor-Overview-Remove.png)
@@ -135,34 +135,34 @@ Remove the following records:
 
   _Magic Effect_
 
-   - `0001CEAA` SummonFlameAtronach
-   - `0001CEAB` SummonFrostAtronach
-   - `0001CEAC` SummonStormAtronach
-   - `000640B4` SummonFamiliar
-   - `0006A154` MGRSummonArnielEffect
-   - `0007E5D2` SummonFlameThrall
-   - `0007E5D3` SummonFrostThrall
-   - `0007E5D4` SummonStormThrall
-   - `0007E8E0` ReanimateThrallFFAimed
-   - `000A88C8` dunRannveigSummonGhost
-   - `000CDECF` SummonFlameThrallPotent
-   - `000CDED0` SummonFrostThrallPotent
-   - `000CDED1` SummonStormThrallPotent
-   - `0010DDED` SummonDremoraLord
-   - `0010EE48` SummonFrostAtronachNPC
-   - `0010EE49` SummonStormAtronachNPC
-   - `0010FC12` SummonDragonPriest
-   - `01000840` EnchSummonFlameAtronach
-   - `01000841` EnchSummonFrostAtronach
-   - `01000842` EnchSummonStormAtronach
-   - `01000843` EnchSummonFlameThrall
-   - `01000844` EnchSummonFrostThrall
-   - `01000845` EnchSummonStormThrall
-   - `020045B5` SummonWrathman
-   - `020045BB` SummonMistman
-   - `020045BC` SummonBoneman
-   - `0200C601` DLC01SummonSoulHorseEffect
-   - `0200E7D7` DLC1nVampireBloodyGripCloakEffect
+  - `0001CEAA` SummonFlameAtronach
+  - `0001CEAB` SummonFrostAtronach
+  - `0001CEAC` SummonStormAtronach
+  - `000640B4` SummonFamiliar
+  - `0006A154` MGRSummonArnielEffect
+  - `0007E5D2` SummonFlameThrall
+  - `0007E5D3` SummonFrostThrall
+  - `0007E5D4` SummonStormThrall
+  - `0007E8E0` ReanimateThrallFFAimed
+  - `000A88C8` dunRannveigSummonGhost
+  - `000CDECF` SummonFlameThrallPotent
+  - `000CDED0` SummonFrostThrallPotent
+  - `000CDED1` SummonStormThrallPotent
+  - `0010DDED` SummonDremoraLord
+  - `0010EE48` SummonFrostAtronachNPC
+  - `0010EE49` SummonStormAtronachNPC
+  - `0010FC12` SummonDragonPriest
+  - `01000840` EnchSummonFlameAtronach
+  - `01000841` EnchSummonFrostAtronach
+  - `01000842` EnchSummonStormAtronach
+  - `01000843` EnchSummonFlameThrall
+  - `01000844` EnchSummonFrostThrall
+  - `01000845` EnchSummonStormThrall
+  - `020045B5` SummonWrathman
+  - `020045BB` SummonMistman
+  - `020045BC` SummonBoneman
+  - `0200C601` DLC01SummonSoulHorseEffect
+  - `0200E7D7` DLC1nVampireBloodyGripCloakEffect
 
    ![image](pics/Undeath/Magic-Overview-01-Before.png)
    ![image](pics/Undeath/Magic-Overview-02-Before.png)
@@ -175,25 +175,25 @@ Remove the following records:
 
   _Non-Player Character (Actor)_
 
-   - `0001E7CA` LvlWarlockNecromancer
-   - `0002D1DE` EncSkeleton01Melee1H
-   - `0002D1E0` EncSkeleton01Melee2H
-   - `0002D1FC` EncSkeleton01Missile
-   - `0002D1FD` EncSkeleton01Melee1Hshield
-   - `0003B547` EncDraugr01Template
-   - `0003BE1E` EncDraugr01TemplateMissile
-   - `000524E5` EncSkeleton01AmbushMelee1H
-   - `000548FE` EncWarlock01TemplateNecro
-   - `0005B752` EncDraugr01Template2H
-   - `000C3B1C` TreasCorpseSkeleton
-   - `000DA06B` EncSkeleton01AmbushMelee1HShield
-   - `02010E9B` DLC1lvlDragonIceLake
-   - `02011CD2` AudioTemplateVampireLord
-   - `020145A5` DLC1VQ02VampLordLoadDummy
-   - `0201A93D` DLC1HarkonCombat
-   - `0301E290` AudioTemplateWerebear
-   - `0303D588` AudioTemplateRiekling
-   - `0303D589` AudioTemplateRieklingQuiet
+  - `0001E7CA` LvlWarlockNecromancer
+  - `0002D1DE` EncSkeleton01Melee1H
+  - `0002D1E0` EncSkeleton01Melee2H
+  - `0002D1FC` EncSkeleton01Missile
+  - `0002D1FD` EncSkeleton01Melee1Hshield
+  - `0003B547` EncDraugr01Template
+  - `0003BE1E` EncDraugr01TemplateMissile
+  - `000524E5` EncSkeleton01AmbushMelee1H
+  - `000548FE` EncWarlock01TemplateNecro
+  - `0005B752` EncDraugr01Template2H
+  - `000C3B1C` TreasCorpseSkeleton
+  - `000DA06B` EncSkeleton01AmbushMelee1HShield
+  - `02010E9B` DLC1lvlDragonIceLake
+  - `02011CD2` AudioTemplateVampireLord
+  - `020145A5` DLC1VQ02VampLordLoadDummy
+  - `0201A93D` DLC1HarkonCombat
+  - `0301E290` AudioTemplateWerebear
+  - `0303D588` AudioTemplateRiekling
+  - `0303D589` AudioTemplateRieklingQuiet
    
    ![image](pics/Undeath/NPCs-Overview-Before.png)
    ![image](pics/Undeath/NPCs-Overview-Remove.png)
@@ -202,7 +202,7 @@ Remove the following records:
 
   _Perk_
 
-   - `00106092` doomRitualPerk
+  - `00106092` doomRitualPerk
 
    ![image](pics/Undeath/Perk-Overview-Before.png)
    ![image](pics/Undeath/Perk-Overview-Remove.png)
@@ -211,37 +211,37 @@ Remove the following records:
 
   _Spell_
 
-   - `000204C4` ConjureFrostAtronach
-   - `000204C5` ConjureStormAtronach
-   - `000211EF` DetectDead
-   - `000640B6` ConjureFamiliar
-   - `0007E8DF` DeadThrall
-   - `0007E8E4` Blizzard
-   - `00096D94` Revenant
-   - `0009BCCA` AbDragonPriest
-   - `000A1992` IceStormLeftHand
-   - `000ABDF3` ConjureFrostAtronachLeftHand
-   - `000BB967` ConjureFlameAtronachLeftHand
-   - `000BB968` ConjureStormAtronachLeftHand
-   - `000C969C` IceSpikeRightHand
-   - `000C969E` RaiseZombieLeftHand
-   - `000E1529` dunReanimateSelf
-   - `000E7329` doomRitualAbility
-   - `00100E75` ConjureFamiliarRightHand
-   - `00100E76` ConjureFlameAtronachRightHand
-   - `00100E77` ConjureFrostAtronachRightHand
-   - `00100E78` ConjureStormAtronachRightHand
-   - `0010DDEC` ConjureDremoraLord
-   - `0010FC16` ConjureDragonPriest
-   - `020038B7` DLC1VampiresGrip
-   - `020045B3` DLC1ConjureWrathman
-   - `020045B8` DLC1ConjureMistman
-   - `020045BA` DLC1ConjureBoneman
-   - `02016909` DLC1ConjureGargoyleLeftHand
-   - `0301CDF6` DLC2ConjureAshSpawn
-   - `03029F12` DLC2ConjureBardInstruments
-   - `03033C66` DLC2ConjureSeeker
-   - `0303D473` DLC2ConjureAshGuardianLeftHand
+  - `000204C4` ConjureFrostAtronach
+  - `000204C5` ConjureStormAtronach
+  - `000211EF` DetectDead
+  - `000640B6` ConjureFamiliar
+  - `0007E8DF` DeadThrall
+  - `0007E8E4` Blizzard
+  - `00096D94` Revenant
+  - `0009BCCA` AbDragonPriest
+  - `000A1992` IceStormLeftHand
+  - `000ABDF3` ConjureFrostAtronachLeftHand
+  - `000BB967` ConjureFlameAtronachLeftHand
+  - `000BB968` ConjureStormAtronachLeftHand
+  - `000C969C` IceSpikeRightHand
+  - `000C969E` RaiseZombieLeftHand
+  - `000E1529` dunReanimateSelf
+  - `000E7329` doomRitualAbility
+  - `00100E75` ConjureFamiliarRightHand
+  - `00100E76` ConjureFlameAtronachRightHand
+  - `00100E77` ConjureFrostAtronachRightHand
+  - `00100E78` ConjureStormAtronachRightHand
+  - `0010DDEC` ConjureDremoraLord
+  - `0010FC16` ConjureDragonPriest
+  - `020038B7` DLC1VampiresGrip
+  - `020045B3` DLC1ConjureWrathman
+  - `020045B8` DLC1ConjureMistman
+  - `020045BA` DLC1ConjureBoneman
+  - `02016909` DLC1ConjureGargoyleLeftHand
+  - `0301CDF6` DLC2ConjureAshSpawn
+  - `03029F12` DLC2ConjureBardInstruments
+  - `03033C66` DLC2ConjureSeeker
+  - `0303D473` DLC2ConjureAshGuardianLeftHand
 
    ![image](pics/Undeath/Spell-Overview-01-Before.png)
    ![image](pics/Undeath/Spell-Overview-02-Before.png)
@@ -249,6 +249,16 @@ Remove the following records:
    ![image](pics/Undeath/Spell-Overview-Remove-Yes.png)
    ![image](pics/Undeath/Spell-Overview-After.png)
 
+  _Worldspace_ _Cells_
+  
+  - `00007779` NecroMapMarkerCell01
+  - `000092E0`
+  - `00009300`
+  - `00009B98`
+
+   ![image](pics/Undeath/CELL-01-Overview-Before.png)
+   ![image](pics/Undeath/CELL-02-Overview-Before.png)
+   ![image](pics/Undeath/CELL-04-Overview-Before.png)
 Edit the following records:
 
 The `XCWT - Water` subrecord value in `Undeath.esp` must be changed to match the value in `Update.esm`.
@@ -289,6 +299,7 @@ The `XCWT - Water` subrecord value in `Undeath.esp` must be changed to match the
    ![image](pics/Undeath/Waterflow-Remove-After.png)
 
    ![image](pics/Undeath/Waterflow-Overview-After-All.png)
+
 
 The Wild edits are now corrected, you can save the changes to the cleaned plugin with `ctrl+s` or when prompted before exiting SSEEdit.
 
