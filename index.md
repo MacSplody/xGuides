@@ -119,6 +119,8 @@ The Wild edits are now corrected, you can save the changes to the cleaned plugin
 
 #### Remove the following records
 
+  \* Note: Some of these records may have been removed during Quick Auto Clean.
+
    _Armor_
 
   - `0003B5AB` SkinDragonPriest
@@ -257,19 +259,18 @@ The Wild edits are now corrected, you can save the changes to the cleaned plugin
   - `00009B98`
 
    ![image](pics/Undeath/CELL-01-Overview-Before.png)
-   ![image](pics/Undeath/CELL-02-Overview-Before.png)
-   ![image](pics/Undeath/CELL-04-Overview-Before.png)
-Edit the following records:
+   ![image](pics/Undeath/CELL-01-Overview-Remove.png)
+   ![image](pics/Undeath/CELL-01-Overview-Confirm.png)
+   ![image](pics/Undeath/CELL-01-Overview-After.png)
+
+#### Edit the following records
 
 The `XCWT - Water` subrecord value in `Undeath.esp` must be changed to match the value in `Update.esm`.
 
    - `000092DE`
    - `000092DF` SolitudeSewersSouthExt
-   - `000092E0`
-   - `00009300`
    - `000094B8`
    - `00009A60` NecroCaravanExt01
-   - `00009B98`
    - `00009BB9` NecroArkayShrineExt01
    - `00009BBA`
    
