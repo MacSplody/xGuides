@@ -268,7 +268,7 @@ The Wild edits are now corrected, you can save the changes to the cleaned plugin
    ![image](pics/Undeath/CELL-01-Overview-After.png)
 
   \* Note: If you haven't previously cleaned this file, it will still have ITMs.
-  \*       The xEdit warning message will reflect this.
+           The xEdit warning message will reflect this.
 
    ![image](pics/Undeath/CELL-01-Overview-Confirm-Alt.png)
 
