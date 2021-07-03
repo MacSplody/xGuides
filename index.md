@@ -117,6 +117,10 @@ The Wild edits are now corrected, you can save the changes to the cleaned plugin
 
 `Undeath.esp`
 
+  \* Note: Only select the following modules in xEdit.
+
+   ![image](pics/Undeath/module-selection.png)
+
 #### Remove the following records
 
   \* Note: Some of these records may have been removed during Quick Auto Clean.
