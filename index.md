@@ -267,6 +267,11 @@ The Wild edits are now corrected, you can save the changes to the cleaned plugin
    ![image](pics/Undeath/CELL-01-Overview-Confirm.png)
    ![image](pics/Undeath/CELL-01-Overview-After.png)
 
+  \* Note: If you haven't previously cleaned this file, it will still have ITMs.
+  \*       The xEdit warning message will reflect this.
+
+   ![image](pics/Undeath/CELL-01-Overview-Confirm-Alt.png)
+
 #### Edit the following records
 
 The `XCWT - Water` subrecord value in `Undeath.esp` must be changed to match the value in `Update.esm`.
