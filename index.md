@@ -463,6 +463,6 @@ The unresolved reference is now corrected, you can save the changes to the clean
 10. Add the `Deleted` record flag to the `00071A4A` record in `Oblivion Content Restoration Project.esp`![image](https://i.imgur.com/MHYtlew.png)![image](https://i.imgur.com/gWE5afV.png)
 11. Close TES4Edit, only saving `Oblivion Content Restoration Project.esp`![image](https://i.imgur.com/rRwRZX2.png)
 12. Open up TES4EditQuickAutoClean, and select only `Oblivion Content Restoration Project.esp`, then select OK.![image](https://i.imgur.com/7h39CCi.png)
-13. TES4EditQuickAutoClean will then safely and correctly undelete and disable the record that we deleted earlier in `Oblivion Content Restoration Project.esp`[image](https://i.imgur.com/ZXLoure.png)
+13. TES4EditQuickAutoClean will then safely and correctly undelete and disable the record that we deleted earlier in `Oblivion Content Restoration Project.esp`![image](https://i.imgur.com/ZXLoure.png)
 
 The record type collision has now been fixed in Oblivion Content Restoration Project.esp, and you can now close TES4EditQuickAutoClean.
