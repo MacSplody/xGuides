@@ -20,6 +20,9 @@
 5. [TK Children](#-tk-children-)
 6. [Children](#-children-)
 
+### Record Type Collisions
+1. [Oblivion Content Restoration Project](#-oblivion-content-restoration-project-)
+
 ---
 
 ### [ Teleport - City Spells ](https://www.nexusmods.com/skyrimspecialedition/mods/7015/)
