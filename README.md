@@ -1,1 +1,1 @@
-# SSEEdit Guides
+# xEdit Guides
