@@ -451,18 +451,18 @@ The unresolved reference is now corrected, you can save the changes to the clean
 `Oblivion Content Restoration Project.esp`
 
 #### Edit the following record(s) with TES4Edit
-1. Search for the record `00071A4A`![image](https://i.imgur.com/dvj6rQm.png)
-2. Jump to the same record in `Oblivion Content Restoration Project.esp`![image](https://i.imgur.com/w4p3BSZ.png)
-3. Right-click on the record `00071A4A` and select the option 'Copy as new record into...'![image](https://i.imgur.com/FzQUUXQ.png)
-4. Give it a new EditorID, such as `OCRPRockBottomOgreBossChieftain`![image](https://i.imgur.com/2I6u45z.png)
-5. Add this record to `Oblivion Content Restoration Project.esp`![image](https://i.imgur.com/ubTXEjv.png)
-6. Remove the record `00071A4A` in `Oblivion Content Restoration Project.esp`![image](https://i.imgur.com/tkJKQIi.png)![image](https://i.imgur.com/dFMrYnK.png)
-7. Search for the record `00071A4A` in `Oblivion.esm`![image](https://i.imgur.com/Dq0BLMk.png)
-8. Right-click on the record `00071A4A` in `Oblivion.esm` and select the option 'Copy as override into...'![image](https://i.imgur.com/EFT4ZJ0.png)
-9. Add this record to `Oblivion Content Restoration Project.esp`![image](https://i.imgur.com/NF3VdYY.png)
-10. Add the `Deleted` record flag to the `00071A4A` record in `Oblivion Content Restoration Project.esp`![image](https://i.imgur.com/MHYtlew.png)![image](https://i.imgur.com/gWE5afV.png)
-11. Close TES4Edit, only saving `Oblivion Content Restoration Project.esp`![image](https://i.imgur.com/rRwRZX2.png)
-12. Open up TES4EditQuickAutoClean, and select only `Oblivion Content Restoration Project.esp`, then select OK.![image](https://i.imgur.com/7h39CCi.png)
-13. TES4EditQuickAutoClean will then safely and correctly undelete and disable the record that we deleted earlier in `Oblivion Content Restoration Project.esp`![image](https://i.imgur.com/ZXLoure.png)
+1. Search for the record `00071A4A`![image](pics/OCRP/dvj6rQm.png)
+2. Jump to the same record in `Oblivion Content Restoration Project.esp`![image](pics/OCRP/w4p3BSZ.png)
+3. Right-click on the record `00071A4A` and select the option 'Copy as new record into...'![image](pics/OCRP/FzQUUXQ.png)
+4. Give it a new EditorID, such as `OCRPRockBottomOgreBossChieftain`![image](pics/OCRP/2I6u45z.png)
+5. Add this record to `Oblivion Content Restoration Project.esp`![image](pics/OCRP/ubTXEjv.png)
+6. Remove the record `00071A4A` in `Oblivion Content Restoration Project.esp`![image](pics/OCRP/tkJKQIi.png)![image](pics/OCRP/dFMrYnK.png)
+7. Search for the record `00071A4A` in `Oblivion.esm`![image](pics/OCRP/Dq0BLMk.png)
+8. Right-click on the record `00071A4A` in `Oblivion.esm` and select the option 'Copy as override into...'![image](pics/OCRP/EFT4ZJ0.png)
+9. Add this record to `Oblivion Content Restoration Project.esp`![image](pics/OCRP/NF3VdYY.png)
+10. Add the `Deleted` record flag to the `00071A4A` record in `Oblivion Content Restoration Project.esp`![image](pics/OCRP/MHYtlew.png)![image](pics/OCRP/gWE5afV.png)
+11. Close TES4Edit, only saving `Oblivion Content Restoration Project.esp`![image](pics/OCRP/rRwRZX2.png)
+12. Open up TES4EditQuickAutoClean, and select only `Oblivion Content Restoration Project.esp`, then select OK.![image](pics/OCRP/7h39CCi.png)
+13. TES4EditQuickAutoClean will then safely and correctly undelete and disable the record that we deleted earlier in `Oblivion Content Restoration Project.esp`![image](pics/OCRP/ZXLoure.png)
 
 The record type collision has now been fixed in Oblivion Content Restoration Project.esp, and you can now close TES4EditQuickAutoClean.
